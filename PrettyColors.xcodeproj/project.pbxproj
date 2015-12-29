@@ -172,7 +172,8 @@
 				67C9FB1E1A5C7E7B00FDFE3A /* Color */,
 				673900B01A546F2D0066713B /* PrettyColors.h */,
 			);
-			path = Source;
+			name = Source;
+			path = Source/PrettyColors;
 			sourceTree = "<group>";
 		};
 		673900AE1A546F2D0066713B /* Supporting Files */ = {
